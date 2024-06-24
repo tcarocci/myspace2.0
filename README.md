@@ -2,13 +2,25 @@
 
 ## Description
 
-The Tech Blog is a CMS-style blog site where developers can publish their blog posts and comment on other developers’ posts. This site is built from scratch and deployed to Render. The application follows the MVC paradigm, uses Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+This project is a RESTful API for a social network web application. Users can share their thoughts, react to friends' thoughts, and create a friend list. The API is built using Express.js for routing, MongoDB as the database, and Mongoose as the ODM (Object Data Modeling) library. This project demonstrates how to handle large amounts of unstructured data with MongoDB, making it ideal for social networking platforms.
 
 ## Site Deployment
 
-[Link to video demonstration]()
+[Link to video demonstration](/assets/videos/myspace_v2_vid.mp4)
 
 ## Screenshots
+
+### All Users
+
+![AllUsers](/assets/images/AllUsers.png)
+
+### All Thoughts and Reactions
+
+![AllThoughtsAndReactions](/assets/images/AllThoughts.png.png)
+
+## Additional Info
+
+- Application deletes a user's associated thoughts when the user is deleted.
 
 ## Technologies Used
 
