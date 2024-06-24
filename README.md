@@ -16,7 +16,7 @@ This project is a RESTful API for a social network web application. Users can sh
 
 ### All Thoughts and Reactions
 
-![AllThoughtsAndReactions](/assets/images/AllThoughts.png.png)
+![AllThoughtsAndReactions](/assets/images/AllThoughts.png)
 
 ## Additional Info
 
